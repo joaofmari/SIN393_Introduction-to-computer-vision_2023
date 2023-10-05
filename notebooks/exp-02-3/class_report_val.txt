@@ -1,0 +1,25 @@
+
+VAL. SET:
+
+Confusion matrix:
+[[137   7   2   3   5]
+ [  7 195   2  12   4]
+ [  3   0 129   1  20]
+ [  4   7   1 128   9]
+ [  4   2  16   5 161]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+   sunflower     0.8839    0.8896    0.8867       154
+       tulip     0.9242    0.8864    0.9049       220
+       daisy     0.8600    0.8431    0.8515       153
+        rose     0.8591    0.8591    0.8591       149
+   dandelion     0.8090    0.8564    0.8320       188
+
+    accuracy                         0.8681       864
+   macro avg     0.8672    0.8669    0.8668       864
+weighted avg     0.8693    0.8681    0.8684       864
+
+
+Accuracy:	0.8680555555555556
