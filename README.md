@@ -7,7 +7,7 @@
 ---
 * [Slides (EN)](/slides-en/Lecture01.ClassifyingImagens.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula01.ClassificandoImagens.(2023).pdf)
-* [Notebook (EN) - Part 1](/notebooks/Lecture%2001%20-%20Part%201%20-%20Digital%20imagens.ipynb>)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 2](/notebooks/Lecture%2001%20-%20Part%202%20-%20Image%20classification.ipynb)
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2001%20-%20Part%203%20-%20Image%20classification%20-%20Color%20features.ipynb)
 
