@@ -5,28 +5,28 @@
 
 ## Lecture 01 - Classifying images
 ---
-* [Slides (EN)](/slides/Aula01.ImagensDigitais.(2022-2).pdf)
-* [Slides (PT-BR)](/slides/Aula01.ImagensDigitais.(2022-2).pdf)
-* [Notebook (EN) - Part 1](/notebooks/>)
-* [Notebook (EN) - Part 2](/notebooks/)
-* [Notebook (EN) - Part 3](/notebooks/)
+* [Slides (EN)](/slides_en/Lecture01.ClassifyingImagens.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula01.ClassificandoImagens.(2023).pdf)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2001%20-%20Part%201%20-%20Digital%20imagens.ipynb>)
+* [Notebook (EN) - Part 2](/notebooks/Lecture%2001%20-%20Part%202%20-%20Image%20classification.ipynb)
+* [Notebook (EN) - Part 3](/notebooks/Lecture%2001%20-%20Part%203%20-%20Image%20classification%20-%20Color%20features.ipynb)
 
 ## Lecture 02 - IntrodIntroduction to Python
 ---
-* [Notebook (EN)](/notebooks/)
+* [Notebook (EN)](/notebooks/Lecture%2002%20-%20Introduction%20to%20Python.ipynb)
 
 ## Lecture 03 - Introdução ao NumPy
 ---
-* [Notebook (EN)](/notebooks/)
+* [Notebook (EN)](/notebooks/Lecture%2003%20-%20Introduction%20to%20NumPy.ipynb)
 
 ## Lecture 04 - Convolutional Neural Networks
 ---
-* [Slides (EN)](/slides/Aula01.ImagensDigitais.(2022-2).pdf)
-* [Slides (PT-BR)](/slides/Aula01.ImagensDigitais.(2022-2).pdf)
-* [Notebook (EN) - Part 1](/notebooks/)
-* [Notebook (EN) - Part 2](/notebooks/)
-* [Notebook (EN) - Part 3](/notebooks/)
-* [Notebook (EN) - Part 4](/notebooks/)
+* [Slides (EN)](/slides_en/Lecture04.ConvolutionalNeuralNetworks.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula04.RedesNeuraisConvolucionais.(2023).pdf)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
 
 ## Lecture 05 - Artificial Neural Networks 
 * In progress...
@@ -84,7 +84,7 @@
 
 # Bibligraphy
 
-* GONZALEZ, R.C.; WOODS, R.E. Processamento de Imagens Digitais. 3. ed. Pearson, 2010.
+* GONZALEZ, R.C.; WOODS, R.E. Digital Image Processing. 3. ed. Pearson, 2007.
 * COSTA, L.F.; CÉSAR-JR., R.M. Shape analysis and classification: Theory and practice. 1. ed. CRC Press, 2000.
 * DUDA, R.O.; HART, P.E.; STORK, D.G. Pattern Classification. Wiley, 2001. 
 * CHITYALA, R.; PUDIPEDDI, S. Image processing and acquisition using Python. CRC Press, 2014.
