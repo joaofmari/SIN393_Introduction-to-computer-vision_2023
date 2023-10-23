@@ -11,7 +11,7 @@
 * [Notebook (EN) - Part 2](/notebooks/Lecture%2001%20-%20Part%202%20-%20Image%20classification.ipynb)
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2001%20-%20Part%203%20-%20Image%20classification%20-%20Color%20features.ipynb)
 
-## Lecture 02 - IntrodIntroduction to Python
+## Lecture 02 - Introduction to Python
 ---
 * [Notebook (EN)](/notebooks/Lecture%2002%20-%20Introduction%20to%20Python.ipynb)
 
@@ -19,29 +19,39 @@
 ---
 * [Notebook (EN)](/notebooks/Lecture%2003%20-%20Introduction%20to%20NumPy.ipynb)
 
-## Lecture 04 - Convolutional Neural Networks
+## Lecture 04 - Artificial Neural Networks 
 ---
-* [Slides (EN)](/slides-en/Lecture04.ConvolutionalNeuralNetworks.(2023).pdf)
-* [Slides (PT-BR)](/slides/Aula04.RedesNeuraisConvolucionais.(2023).pdf)
+* [Slides (EN)](/slides-en/Lecture06.ConvolutionalNeuralNetworks.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
 * [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
 
-## Lecture 05 - Artificial Neural Networks 
+
+## Lecture 05 - Artificial Neural Networks and Deep Learning
+---
 * In progress...
 
-## Lecture 06 - Artificial Neural Networks and Deep Learning
-* In progress...
+## Lecture 06 - Convolutional Neural Networks
+---
+* [Slides (EN)](/slides-en/Lecture06.ConvolutionalNeuralNetworks.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
 
 # Creating a conda environment for the course
 ---
 
 ## Without GPU
 ```
-    $ conda create -n env-sin393-py39 python=3.9
-    $ conda activate env-sin393-py39
+    $ conda create -n env-sin393-cpu-py39 python=3.9
+    $ conda activate env-sin393-cpu-py39
 
+    $ conda install pytorch torchvision torchaudio cpuonly -c pytorch
+    
     $ pip install notebook
     $ pip install matplotlib
     $ pip install scikit-image
@@ -70,16 +80,21 @@
 ```
 
 ## You can easily save and load a conda environment:
-* I provide a YML file for the CPU and GPU conda environment.
 
 * Saving an environment:
 ```
-    $ conda env export > env-sin393-py39.yml
+    $ conda env export > env-sin393-gpu-py39.yml
 ```
 
 * Loading an environment:
 ```
-    $ conda env create -f env-sin393-py39.yml 
+    $ conda env create -f env-sin393-gpu-py39.yml 
+```
+
+* I provide YML files for the CPU and GPU conda environment.
+```
+    env-sin393-cpu-py39.yml
+    env-sin393-gpu-py39.yml
 ```
 
 # Bibligraphy
