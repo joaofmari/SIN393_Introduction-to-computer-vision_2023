@@ -21,8 +21,8 @@
 
 ## Lecture 04 - Artificial Neural Networks 
 ---
-* [Slides (EN)](/slides-en/Lecture06.ConvolutionalNeuralNetworks.(2023).pdf)
-* [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
+* [Slides (EN)](/slides-en/Lecture04.ArtificialNeuralNetworks.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula04.RedesNeuraisArtificiais.(2023).pdf)
 * [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
