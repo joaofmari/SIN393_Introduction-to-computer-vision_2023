@@ -7,7 +7,7 @@
 ---
 * [Slides (EN)](/slides-en/Lecture01.ClassifyingImagens.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula01.ClassificandoImagens.(2023).pdf)
-* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2001%20-%20Part%201%20-%20Digital%20imagens.ipynb)
 * [Notebook (EN) - Part 2](/notebooks/Lecture%2001%20-%20Part%202%20-%20Image%20classification.ipynb)
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2001%20-%20Part%203%20-%20Image%20classification%20-%20Color%20features.ipynb)
 
@@ -31,7 +31,15 @@
 
 ## Lecture 05 - Artificial Neural Networks and Deep Learning
 ---
-* In progress...
+* [Slides (EN)](/slides-en/Lecture05.ArtificialNeuralNetworksAndDeepLearning.(2023).pdf)
+* [Slides (PT-BR)](/slides/Aula05.RedesNeuraisArtificiaisDeepLearning.(2023).pdf)
+* [Notebook (EN) - Part 1a](/notebooks/Lecture%2005%20-%20Part%201a%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 1b](/notebooks/Lecture%2005%20-%20Part%201b%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 1c](/notebooks/Lecture%2005%20-%20Part%201c%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 2a](/notebooks/Lecture%2005%20-%20Part%202a%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 2b](/notebooks/Lecture%2005%20-%20Part%202b%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 3a](/notebooks/Lecture%2005%20-%20Part%203a%20-%20Deep%20Learning.ipynb)
+* [Notebook (EN) - Part 3b](/notebooks/Lecture%2005%20-%20Part%203b%20-%20Deep%20Learning.ipynb)
 
 ## Lecture 06 - Convolutional Neural Networks
 ---
