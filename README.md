@@ -60,6 +60,7 @@
     $ pip install seaborn
     $ pip install ipympl
     $ pip install ipywidgets
+    $ pip install graphviz
 ```
 
 ## With GPU
