@@ -4,7 +4,7 @@
 ---
 
 ## Lecture 01 - Classifying images
----
+
 * [Slides (EN)](/slides-en/Lecture01.ClassifyingImagens.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula01.ClassificandoImagens.(2023).pdf)
 * [Notebook (EN) - Part 1](/notebooks/Lecture%2001%20-%20Part%201%20-%20Digital%20imagens.ipynb)
@@ -12,15 +12,15 @@
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2001%20-%20Part%203%20-%20Image%20classification%20-%20Color%20features.ipynb)
 
 ## Lecture 02 - Introduction to Python
----
+
 * [Notebook (EN)](/notebooks/Lecture%2002%20-%20Introduction%20to%20Python.ipynb)
 
 ## Lecture 03 - Introdução ao NumPy
----
+
 * [Notebook (EN)](/notebooks/Lecture%2003%20-%20Introduction%20to%20NumPy.ipynb)
 
 ## Lecture 04 - Artificial Neural Networks 
----
+
 * [Slides (EN)](/slides-en/Lecture04.ArtificialNeuralNetworks.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula04.RedesNeuraisArtificiais.(2023).pdf)
 * [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
@@ -30,7 +30,7 @@
 
 
 ## Lecture 05 - Artificial Neural Networks and Deep Learning
----
+
 * [Slides (EN)](/slides-en/Lecture05.ArtificialNeuralNetworksAndDeepLearning.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula05.RedesNeuraisArtificiaisDeepLearning.(2023).pdf)
 * [Notebook (EN) - Part 1a](/notebooks/Lecture%2005%20-%20Part%201a%20-%20Deep%20Learning.ipynb)
@@ -42,7 +42,7 @@
 * [Notebook (EN) - Part 3b](/notebooks/Lecture%2005%20-%20Part%203b%20-%20Deep%20Learning.ipynb)
 
 ## Lecture 06 - Convolutional Neural Networks
----
+
 * [Slides (EN)](/slides-en/Lecture06.ConvolutionalNeuralNetworks.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
 * [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
@@ -143,4 +143,4 @@
 ```
 
 ---
-João Fernando Mari - UFV-CRP - 2022-2 - [joaofmari.github.io](joaofmari.github.io) - joaof.mari@ufv.br
+João Fernando Mari - UFV-CRP - 2023 - [joaofmari.github.io](joaofmari.github.io) - joaof.mari@ufv.br
