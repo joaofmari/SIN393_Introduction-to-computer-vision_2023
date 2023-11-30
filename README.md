@@ -23,10 +23,10 @@
 
 * [Slides (EN)](/slides-en/Lecture04.ArtificialNeuralNetworks.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula04.RedesNeuraisArtificiais.(2023).pdf)
-* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Artificial%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Artificial%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Artificial%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Artificial%20Neural%20Networks.ipynb)
 
 
 ## Lecture 05 - Artificial Neural Networks and Deep Learning
@@ -45,10 +45,10 @@
 
 * [Slides (EN)](/slides-en/Lecture06.ConvolutionalNeuralNetworks.(2023).pdf)
 * [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
-* [Notebook (EN) - Part 1](/notebooks/Lecture%2004%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 2](/notebooks/Lecture%2004%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 3](/notebooks/Lecture%2004%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
-* [Notebook (EN) - Part 4](/notebooks/Lecture%2004%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2006%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 2](/notebooks/Lecture%2006%20-%20Part%202%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 3](/notebooks/Lecture%2006%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 4](/notebooks/Lecture%2006%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
 
 # Creating a conda environment for the course
 ---
@@ -107,6 +107,7 @@
 ```
 
 # Bibligraphy
+---
 
 * GONZALEZ, R.C.; WOODS, R.E. Digital Image Processing. 3. ed. Pearson, 2007.
 * COSTA, L.F.; CÉSAR-JR., R.M. Shape analysis and classification: Theory and practice. 1. ed. CRC Press, 2000.
@@ -128,6 +129,7 @@
 
 
 # How to cite
+---
 
 * How to cite this material:
 
