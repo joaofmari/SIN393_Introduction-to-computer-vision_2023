@@ -50,6 +50,21 @@
 * [Notebook (EN) - Part 3](/notebooks/Lecture%2006%20-%20Part%203%20-%20Convolutional%20Neural%20Networks.ipynb)
 * [Notebook (EN) - Part 4](/notebooks/Lecture%2006%20-%20Part%204%20-%20Convolutional%20Neural%20Networks.ipynb)
 
+## Lecture 07 - Other classifiers - K-NN, Bayes, SVM, ...
+
+* [Slides (PT-BR)](/slides/Aula06.RedesNeuraisConvolucionais.(2023).pdf)
+* [Notebook (EN)](/notebooks/Lecture%2006%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+
+## Lecture 08 - Object detection
+* [Slides (PT-BR)](/slides/Aula08.DeteccaoDeObjetos.(2023).pdf)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2006%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+* [Notebook (EN) - Part 1](/notebooks/Lecture%2006%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+
+## Lecture 09 - Image segmentation
+* [Slides (PT-BR)](/slides/Aula09.SegmentacaoSemantica.(2023).pdf)
+* [Notebook (EN)](/notebooks/Lecture%2006%20-%20Part%201%20-%20Convolutional%20Neural%20Networks.ipynb)
+
+
 # Creating a conda environment for the course
 ---
 
@@ -66,47 +81,52 @@
     $ pip install scikit-learn
     $ pip install pandas
     $ pip install seaborn
-    $ pip install ipympl
     $ pip install ipywidgets
+    $ pip install ipympl
     $ pip install graphviz
+    $ pip install opencv-python
+    
 ```
 
 ## With GPU
 ```
-    $ conda create -n env-sin393-gpu-py39 python=3.9
+    $ conda create -n env-sin393-py39 python=3.9
     $ conda activate env-sin393-py39
 
     $ conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
     $ conda install chardet
-
-    $ pip install scikit-image
-    $ pip install matplotlib
-    $ pip install scikit-learn
     $ pip install notebook
-
+    $ pip install matplotlib
+    $ pip install scikit-image
+    $ pip install scikit-learn
+    $ pip install pandas
     $ pip install seaborn
     $ pip install ipywidgets
+    $ pip install ipympl
+    $ pip install graphviz
+    $ pip install opencv-python
+    $ pip install albumentations
 ```
 
 ## You can easily save and load a conda environment:
 
 * Saving an environment:
 ```
-    $ conda env export > env-sin393-gpu-py39.yml
+    $ conda env export > env-sin393-cpu-py39.yml
 ```
 
 * Loading an environment:
 ```
-    $ conda env create -f env-sin393-gpu-py39.yml 
+    $ conda env create -f env-sin393-cpu-py39.yml 
 ```
 
 * I provide YML files for the CPU and GPU conda environment.
 ```
     env-sin393-cpu-py39.yml
-    env-sin393-gpu-py39.yml
+    env-sin393-py39.yml
 ```
 
-# Bibligraphy
+# Bibliography
 ---
 
 * GONZALEZ, R.C.; WOODS, R.E. Digital Image Processing. 3. ed. Pearson, 2007.
